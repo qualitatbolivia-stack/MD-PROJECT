@@ -1,0 +1,6 @@
+{
+  "name": "File to Markdown Converter",
+  "description": "Transform Word documents, PDFs, images, spreadsheets, and text files into clean Markdown simply by adding or dropping files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
